@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ALSABA\\Desktop\\system_f\\School-Management-System-using-CSharp\\SchoolMangementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\SchoolMangementSystem.csproj|C:\\Users\\ALSABA\\Desktop\\system_f\\School-Management-System-using-CSharp\\SchoolMangementSystem\\schoolmangementsystem\\addteachersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\SchoolMangementSystem.csproj|solutionrelative:schoolmangementsystem\\addteachersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\SchoolMangementSystem.csproj|C:\\Users\\ALSABA\\Desktop\\system_f\\School-Management-System-using-CSharp\\SchoolMangementSystem\\schoolmangementsystem\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\SchoolMangementSystem.csproj|solutionrelative:schoolmangementsystem\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\SchoolMangementSystem.csproj|C:\\Users\\ALSABA\\Desktop\\system_f\\School-Management-System-using-CSharp\\SchoolMangementSystem\\schoolmangementsystem\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\SchoolMangementSystem.csproj|solutionrelative:schoolmangementsystem\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\SchoolMangementSystem.csproj|C:\\Users\\ALSABA\\Desktop\\system_f\\School-Management-System-using-CSharp\\SchoolMangementSystem\\schoolmangementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\SchoolMangementSystem.csproj|solutionrelative:schoolmangementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\SchoolMangementSystem.csproj|C:\\Users\\ALSABA\\Desktop\\system_f\\School-Management-System-using-CSharp\\SchoolMangementSystem\\schoolmangementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\SchoolMangementSystem.csproj|solutionrelative:schoolmangementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\SchoolMangementSystem.csproj|C:\\Users\\ALSABA\\Desktop\\system_f\\School-Management-System-using-CSharp\\SchoolMangementSystem\\schoolmangementsystem\\addstudentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\SchoolMangementSystem.csproj|solutionrelative:schoolmangementsystem\\addstudentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\SchoolMangementSystem.csproj|C:\\Users\\ALSABA\\Desktop\\system_f\\School-Management-System-using-CSharp\\SchoolMangementSystem\\schoolmangementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\SchoolMangementSystem.csproj|solutionrelative:schoolmangementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddTeachersData.cs",
+              "DocumentMoniker": "C:\\Users\\ALSABA\\Desktop\\system_f\\School-Management-System-using-CSharp\\SchoolMangementSystem\\SchoolMangementSystem\\AddTeachersData.cs",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\AddTeachersData.cs",
+              "ToolTip": "C:\\Users\\ALSABA\\Desktop\\system_f\\School-Management-System-using-CSharp\\SchoolMangementSystem\\SchoolMangementSystem\\AddTeachersData.cs",
+              "RelativeToolTip": "SchoolMangementSystem\\AddTeachersData.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:10:22.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddStudentForm.cs",
+              "DocumentMoniker": "C:\\Users\\ALSABA\\Desktop\\system_f\\School-Management-System-using-CSharp\\SchoolMangementSystem\\SchoolMangementSystem\\AddStudentForm.cs",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\AddStudentForm.cs",
+              "ToolTip": "C:\\Users\\ALSABA\\Desktop\\system_f\\School-Management-System-using-CSharp\\SchoolMangementSystem\\SchoolMangementSystem\\AddStudentForm.cs",
+              "RelativeToolTip": "SchoolMangementSystem\\AddStudentForm.cs",
+              "ViewState": "AQIAACsBAAAAAAAAAAAQwD8BAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:56:42.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\ALSABA\\Desktop\\system_f\\School-Management-System-using-CSharp\\SchoolMangementSystem\\SchoolMangementSystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\MainForm.cs",
+              "ToolTip": "C:\\Users\\ALSABA\\Desktop\\system_f\\School-Management-System-using-CSharp\\SchoolMangementSystem\\SchoolMangementSystem\\MainForm.cs",
+              "RelativeToolTip": "SchoolMangementSystem\\MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:12:15.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddStudentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ALSABA\\Desktop\\system_f\\School-Management-System-using-CSharp\\SchoolMangementSystem\\SchoolMangementSystem\\AddStudentForm.cs",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\AddStudentForm.cs",
+              "ToolTip": "C:\\Users\\ALSABA\\Desktop\\system_f\\School-Management-System-using-CSharp\\SchoolMangementSystem\\SchoolMangementSystem\\AddStudentForm.cs [Design]",
+              "RelativeToolTip": "SchoolMangementSystem\\AddStudentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:56:07.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddStudentData.cs",
+              "DocumentMoniker": "C:\\Users\\ALSABA\\Desktop\\system_f\\School-Management-System-using-CSharp\\SchoolMangementSystem\\SchoolMangementSystem\\AddStudentData.cs",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\AddStudentData.cs",
+              "ToolTip": "C:\\Users\\ALSABA\\Desktop\\system_f\\School-Management-System-using-CSharp\\SchoolMangementSystem\\SchoolMangementSystem\\AddStudentData.cs",
+              "RelativeToolTip": "SchoolMangementSystem\\AddStudentData.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAHkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:54:44.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ALSABA\\Desktop\\system_f\\School-Management-System-using-CSharp\\SchoolMangementSystem\\SchoolMangementSystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\MainForm.cs",
+              "ToolTip": "C:\\Users\\ALSABA\\Desktop\\system_f\\School-Management-System-using-CSharp\\SchoolMangementSystem\\SchoolMangementSystem\\MainForm.cs [Design]",
+              "RelativeToolTip": "SchoolMangementSystem\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:06:02.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ALSABA\\Desktop\\system_f\\School-Management-System-using-CSharp\\SchoolMangementSystem\\SchoolMangementSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\ALSABA\\Desktop\\system_f\\School-Management-System-using-CSharp\\SchoolMangementSystem\\SchoolMangementSystem\\LoginForm.cs [Design]",
+              "RelativeToolTip": "SchoolMangementSystem\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:05:39.712Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
