@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-//using System.Data;
+using System.Data;
 using System.Data.SqlClient;
 using System.IO;
 
@@ -15,7 +15,7 @@ namespace SchoolMangementSystem
 {
     public partial class AddTeachersForm : UserControl
     {
-        SqlConnection connect = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\ALSABA\Desktop\system_f\school.mdf;Integrated Security=True;Connect Timeout=30");
+        SqlConnection connect = new SqlConnection(@"data source = DESKTOP-KA4MPGJ; initial catalog = school; integrated security = true");
         public AddTeachersForm()
         {
             InitializeComponent();
@@ -74,7 +74,7 @@ namespace SchoolMangementSystem
                                     "@teacherImage, @teacherStatus, @dateInsert)";
 
                                 // TO SAVE TO YOUR DIRECTORY
-                                string path = Path.Combine(@"C:\Users\ALSABA\Desktop\system_f\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\Teacher_Directory", teacher_id.Text.Trim() + ".jpg");
+                                string path = Path.Combine(@"D:\school\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\Teacher_Directory", teacher_id.Text.Trim() + ".jpg");
 
                                 string directoryPath = Path.GetDirectoryName(path);
 

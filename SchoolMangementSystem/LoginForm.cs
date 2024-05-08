@@ -14,7 +14,7 @@ namespace SchoolMangementSystem
 {
     public partial class LoginForm : Form
     {
-        SqlConnection connect = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\ALSABA\Desktop\system_f\school.mdf;Integrated Security=True;Connect Timeout=30");
+        SqlConnection connect = new SqlConnection(@"data source = DESKTOP-KA4MPGJ; initial catalog = school; integrated security = true");
         public LoginForm()
         {
             InitializeComponent();
@@ -80,16 +80,6 @@ namespace SchoolMangementSystem
         private void showPass_CheckedChanged(object sender, EventArgs e)
         {
             password.PasswordChar = showPass.Checked ? '\0' : '*';
-        }
-
-        private void username_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void password_TextChanged(object sender, EventArgs e)
-        {
-
         }
 
         private void panel1_Paint(object sender, PaintEventArgs e)

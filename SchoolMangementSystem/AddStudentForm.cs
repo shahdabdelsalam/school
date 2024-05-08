@@ -9,7 +9,7 @@ namespace SchoolMangementSystem
 {
     public partial class AddStudentForm : UserControl
     {
-        SqlConnection connect = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\ALSABA\Desktop\system_f\school.mdf;Integrated Security=True;Connect Timeout=30");
+        SqlConnection connect = new SqlConnection(@"data source = DESKTOP-KA4MPGJ; initial catalog = school; integrated security = true");
         public AddStudentForm()
         {
             InitializeComponent();
@@ -71,7 +71,7 @@ namespace SchoolMangementSystem
                                     ", @dateInsert)";
 
                                 // TO SAVE TO YOUR DIRECTORY
-                                string path = Path.Combine(@"C:\Users\ALSABA\Desktop\system_f\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\Student_Directory", student_id.Text.Trim() + ".jpg");
+                                string path = Path.Combine(@"D:\school\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\Student_Directory", student_id.Text.Trim() + ".jpg");
 
                                 string directoryPath = Path.GetDirectoryName(path);
 
@@ -318,6 +318,7 @@ namespace SchoolMangementSystem
         private void student_clearBtn_Click(object sender, EventArgs e)
         {
             clearFields();
+
         }
     }
 }

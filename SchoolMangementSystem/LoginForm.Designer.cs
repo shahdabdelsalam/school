@@ -143,7 +143,6 @@ namespace SchoolMangementSystem
             this.password.PasswordChar = '*';
             this.password.Size = new System.Drawing.Size(239, 30);
             this.password.TabIndex = 4;
-            this.password.TextChanged += new System.EventHandler(this.password_TextChanged);
             // 
             // label5
             // 
@@ -163,7 +162,6 @@ namespace SchoolMangementSystem
             this.username.Name = "username";
             this.username.Size = new System.Drawing.Size(239, 30);
             this.username.TabIndex = 2;
-            this.username.TextChanged += new System.EventHandler(this.username_TextChanged);
             // 
             // label4
             // 

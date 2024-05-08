@@ -217,7 +217,6 @@ namespace SchoolMangementSystem
             this.dashboardForm1.Name = "dashboardForm1";
             this.dashboardForm1.Size = new System.Drawing.Size(875, 575);
             this.dashboardForm1.TabIndex = 2;
-            this.dashboardForm1.Load += new System.EventHandler(this.dashboardForm1_Load);
             // 
             // addStudentForm1
             // 
